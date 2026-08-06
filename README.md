@@ -1,6 +1,6 @@
 # 100Mbps Ethernet Switch ASIC
 
-Fully open source variable port cut-through unmanaged 100Mbps ethernet switch ASIC targeting the [Global Foundry 180nm MCU node (gf180mcuD)](https://gf180mcu-pdk.readthedocs.io/en/latest/). 
+Cut-through unmanaged 100Mbps ethernet switch ASIC targeting the [Global Foundry 180nm MCU node (gf180mcuD)](https://gf180mcu-pdk.readthedocs.io/en/latest/). 
 
 The first version of this design is a 3 port version, currently tapped out on the [Tiny Tapeout gf26b shuttle chip](https://tinytapeout.com/chips/ttgf26b/), part of the second [wafer.space](https://wafer.space/) run, and silicon bring-up is expected to start 2026-11-15. 
 
