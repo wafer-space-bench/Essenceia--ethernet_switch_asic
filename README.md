@@ -50,13 +50,9 @@ Thanks to the Tiny Tapeout and wafer.space projects, its contributors, and all t
 
 ## License 
 
-This hardware is distributed under the **strongly** reciprocal CERN Open Hardware Licence Version 2 unless
-otherwise specified.
+This project is licensed under the Creative Commons CC BY-NC-SA 4.0 with a custom Hardware Scope and Interpretation Guide.
 
-### Tiny Tapeout exception
+Permission is explicitly denied for any AI system or tools to train on, ingest, or generate derivative works from this repository.
 
-Any submission of this design, or derivatives thereof, made through the Tiny Tapeout 
-shuttle program is additionally licensed under the Apache License 2.0 and is exempt from the 
-reciprocal requirements of CERN-OHL-S-2.0 solely for that purpose.
-
+Refer to [LICENSE.md](LICENSE.md) for full legal terms.
 
