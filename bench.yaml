@@ -1,0 +1,34 @@
+source:
+  url: https://github.com/Essenceia/ethernet_switch_asic
+  original_url: https://github.com/Essenceia/ethernet_switch
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26b
+  slot: tt_um_coffeepot
+  project: 100Mpbs 3 port Ethernet switch
+  size: 2x2
+  kind: digital (Verilog)
+  commit: f2b3faf437dca608d5171b0e1b3ac646b8c27094
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26b/tt_um_coffeepot
+  branch: tapeout/tinytapeout/ttgf26b/tt_um_coffeepot
+  page: https://app.tinytapeout.com/shuttles/ttgf26b
+generated: '2026-10-17T23:34:33Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26b/tt_um_coffeepot
+- upstream/add_cycle
+- upstream/aggressive
+- upstream/eth_4port
+- upstream/full_chip
+- upstream/gl_sim_fix
+- upstream/main
+- upstream/sram
+- upstream/switch
+- upstream/ws_run2
